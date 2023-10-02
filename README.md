@@ -1,6 +1,7 @@
 # NoSQL-Social-Network-API
 
 THE PLAN: A Node/express server with a database created utilizing MongoDB and Mongoose replicating a social media API
+
 THE CURRENT STATE: A lot of TO DO's and a few index.js files complete.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
