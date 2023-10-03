@@ -50,7 +50,8 @@ Routes to hit can be found in the routes/api folder
 
 ## Demo
 
-Coming Soon! ...or perhaps not.
+
+[Untitled_ Oct 2, 2023 8_07 PM.webm](https://github.com/JaKrau/NoSQL-Social-Network-API/assets/108687237/de5a8cad-ce61-4d65-aa49-42a851bbaf96)
 
 
 ## Contributions
